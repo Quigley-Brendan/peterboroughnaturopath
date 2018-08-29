@@ -1,0 +1,194 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Peterborough Naturopath - Doctors</title>
+<LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-image:  url(../Images/BackTile.jpg);
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.style5 {
+	font-size: small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style10 {color: #336600}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('../Images/UwayaOver.jpg','../Images/ContactButtonOver.jpg','../Images/newCTCover.jpg','../Images/newModalitiesOver.jpg','../Images/newWomensOver.jpg','../Images/newDiagnosticOver.jpg','../Images/newDispensaryOver.jpg','../Images/newSaunaOver.jpg','../Images/newNewOver.jpg','/Images/JoyceButtonOver.jpg','/Images/DanaOver.jpg','/Images/LNDover.jpg')">
+<p>&nbsp;</p>
+<div id="Layer7" style="position:absolute; width:47px; height:60px; z-index:7; left: 772px; top: 0px;"><img src="../Images/TopRightNavBackground.jpg" width="47" height="60"></div>
+<div id="Layer5" style="position:absolute; width:601px; height:35px; z-index:5; left: 171px; top: 0px;"><a href="Therapies.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image69','','../Images/newCTCover.jpg',1)"><img src="../Images/newCTCoff.jpg" name="Image69" width="132" height="35" border="0"></a><a href="Therapies.htm#Modalities" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image70','','../Images/newModalitiesOver.jpg',1)"><img src="../Images/newModalitiesOff.jpg" name="Image70" width="81" height="35" border="0"></a><a href="Therapies.htm#Womens" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image71','','../Images/newWomensOver.jpg',1)"><img src="../Images/newWomensOff.jpg" name="Image71" width="69" height="35" border="0"></a><a href="Therapies.htm#Diagnostic" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image72','','../Images/newDiagnosticOver.jpg',1)"><img src="../Images/newDiagnosticOff.jpg" name="Image72" width="85" height="35" border="0"></a><a href="Therapies.htm#Dispensary" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image73','','../Images/newDispensaryOver.jpg',1)"><img src="../Images/newDispensaryOff.jpg" name="Image73" width="80" height="35" border="0"></a><a href="Therapies.htm#Sauna" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image74','','../Images/newSaunaOver.jpg',1)"><img src="../Images/newSaunaOff.jpg" name="Image74" width="91" height="35" border="0"></a><a href="Therapies.htm#Sauna" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image74','','../Images/newSaunaOver.jpg',1)"></a><a href="Therapies.htm#New" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image75','','../Images/newNewOver.jpg',1)"><img src="../Images/newNewOff.jpg" name="Image75" width="63" height="35" border="0"></a></div>
+<div id="Layer1" style="position:absolute; width:171px; height:173; z-index:1; left: 0; top: 0;"><a name="Uwaya" id="Uwaya"></a><a href="../index.htm" target="_parent"><img src="../Images/TopLeftNavStar.jpg" width="171" height="173" hspace="0" vspace="0" border="0"></a></div>
+<p>&nbsp;</p>
+<div id="Layer6" style="position:absolute; width:601px; height:25px; z-index:6; left: 171px; top: 35px;"><a href="Doctors.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('UwayaButton','','../Images/UwayaOver.jpg',1)"><img src="../Images/UwayaOff.jpg" name="UwayaButton" width="129" height="25" border="0"></a><a href="/Pages/Doctors.htm#Joyce" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image44','','/Images/JoyceButtonOver.jpg',1)"><img src="/Images/JoyceButton.jpg" name="Image44" width="111" height="25" border="0"></a><a href="/Pages/Doctors.htm#Dana" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image45','','/Images/DanaOver.jpg',1)"><img src="/Images/DanaOff.jpg" name="Image45" width="114" height="25" border="0"></a><a href="/Pages/Doctors.htm#LNDanchor" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image46','','/Images/LNDButtonOver.jpg',1)"><img src="/Images/LNDButton.jpg" name="Image46" width="157" height="25" border="0"></a><a href="Contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ContactButton','','../Images/ContactButtonOver.jpg',1)"><img src="../Images/ContactButton.jpg" name="ContactButton" width="90" height="25" border="0"></a></div>
+<p>&nbsp;</p>
+<div id="Layer3" style="position:absolute; width:648px; height:50px; z-index:3; left: 171px; top: 60px;"><img src="../Images/TopPeterboroughNaturopathTi.jpg" width="648" height="50"></div>
+<div id="Layer2" style="position:absolute; width:772px; height:1600px; z-index:2; top: 173px; left: 0;">
+  <table width="772" height="300" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="171" height="300" scope="col"><table width="171" height="300" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="/Images/NewUwayaPic.jpg" width="171" height="253" border="0" align="top"></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table></td>
+      <td width="601" scope="col"><div align="left">
+        <table width="601" height="48" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top" scope="col"><div align="left"><img src="../Images/UwayaTitle.gif" width="314" height="48"></div></td>
+          </tr>
+        </table>
+        <span class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7"></span><span class="style5">Rooted in a background in botanical studies, Uwaya completed her BSc at Trent University.  After attending Bastyr University for her first year of naturopathic medical school, Uwaya completed her diploma and board exams in Naturopathic Medicine following three years at Canadian College of Naturopathic Medicine.  She has been practicing in Peterborough area since 1999.  She has also been a teacher of botanical medicine to health professionals, and studied classical homeopathy for 8 years post-graduate with Hahnemann Instituut in Holland.<br>
+        <img src="../Images/TypeSpacer.gif" width="7" height="7">Following the principles of naturopathic medicine, Uwaya&rsquo;s aim is to help people attain quality of life through healthy living. She believes that this has a ripple effect and contributes to healthy families and communities. She is a general practitioner of naturopathic medicine.</span>
+        <p>        
+        </p>
+      </div></td>
+    </tr>
+  </table>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="171" scope="col"><table width="171" height="351" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td height="193" background="/Images/BackTile.jpg"><img src="../Images/GutteridgePic.jpg" width="171" height="197"></td>
+        </tr>
+        <tr>
+          <td background="../Images/BackTile.jpg">&nbsp;</td>
+        </tr>
+      </table></td>
+      <td width="601" scope="col"><div align="left">
+          <table width="601" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th scope="col"><div align="left"><a name="Joyce" id="Joyce"></a><br>
+                <img src="../Images/JoyceTitle.gif" width="333" height="48"></div></th>
+            </tr>
+          </table>
+          <span class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7">Having been born and raised in the surrounding area, Susan is very pleased to be practicing Naturopathic Medicine here in the Peterborough area.  Through her membership with the Women's Business Network, various physical activities, and regular public presentations, she has immersed herself into the community..<br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">Susan completed her Honours Biology degree at Queen&rsquo;s University as Susan Gutteridge and went on to further studies at the Canadian College of Naturopathic Medicine (CCNM). After completing four years of post-graduate medical education, Susan graduated as a Doctor of Naturopathic Medicine and has since married to become Dr. Susan Joyce. <br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">As a Naturopathic Doctor, Susan believes that patient education is one of the most important factors in sustaining good health and nurturing an awareness of a healthy lifestyle. &ldquo;I believe that each patient must be treated as an individual. My role is to empower people to take control of their health, and I feel this is a key step in becoming and remaining healthy. Each and every person has the ability to experience a healthy body and mind, and this can be achieved with the necessary tools and ongoing guidance and support.&rdquo; Susan has a broad range of interests in the health field, with a focus on women's health: including fertility, pregnancy, menopause and hormone imbalance. She also loves working with children.<br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">Susan Joyce is an active member of the Ontario Association of Naturopathic Doctors (OAND) and the Canadian Association of Naturopathic Doctors (CAND).</span></div></td>
+    </tr>
+  </table>
+  <br>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="171" scope="col"><table width="171" height="351" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="193" background="/Images/BackTile.jpg"><img src="../Images/DanaPic.jpg" width="171" height="197"></td>
+          </tr>
+          <tr>
+            <td background="../Images/BackTile.jpg">&nbsp;</td>
+          </tr>
+      </table></td>
+      <td width="601" scope="col"><div align="left">
+          <table width="601" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th scope="col"><div align="left"><a name="Dana" id="Dana"></a><br>
+                      <img src="../Images/DanaTitle.gif" width="333" height="48"></div></th>
+            </tr>
+          </table>
+          <span class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7">After earning her Honours Bachelor of Health Science at the University of Western Ontario, Dana attended the Canadian College of Naturopathic Medicine in Toronto, where she complete the intensive four year program in Naturopathic Medicine.  Dana has recently settled down in Peterborough as a Doctor of Naturopathic Medicine, becoming a member of the Peterborough Naturopath team.<br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">Dana believes that each individual has a unique health and healing pattern; therefore she feels that an individualized approach to treatment is an essential element in naturopathic medicine.  Dana also encourages people to become participants in their own healing journey through education of health and wellness, thus empowering optimum self healing and sustained well being.  &ldquo;I believe that people require the knowledge and tools to become advocates of their own health. Naturopathic medicine involves educating people on how they can live their best possible life.&rdquo;<br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">Dana has an extensive range of interests within the naturopathic field including nutritional counselling, sports medicine, and acute and chronic pain management, facial rejuvenation through acupuncture and balancing or eliminating stress and tension.  Dana also has a special interest in cancer therapy; she believes that there is an important role for integrative and complementary therapies to promote quality of life and encourage healing within the cancer experience.<br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">Dana Marshall is an active member of the Ontario Association of Naturopathic Medicine (OAND) and Canadian Association of Naturopathic Medicine (CAND).</span></div></td>
+    </tr>
+  </table>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="305" class="style5" scope="col"><a name="LNDanchor" id="LNDanchor"></a>        <table width="344" height="513" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td height="277"><div align="center"><br>            
+                <img src="../Images/Certificate.jpg" width="321" height="239"></div></td>
+        </tr>
+          <tr>
+            <td><div align="center" class="style10"> NATUROPATHIC PRINCIPLES<br>
+                  <br>
+                  First, do no harm<br>
+                  <br>
+                  To co-operate with the healing powers of nature<br>
+                  <br>
+                  To address the fundamental cause of disease<br>
+                  <br>
+                  To heal the whole person through individualized treatment<br>
+                  <br>
+                  To teach the principles of healthy living and preventative medicine</span></div></td>
+          </tr>
+      </table></th><td width="601" scope="col"><div align="left">
+          <table width="438" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th width="438" scope="col"><div align="left"><span class="style5"><strong><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong></strong></strong></span><br>
+                <span class="style5"><strong><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong></strong></strong></span>                <br>
+                <img src="../Images/LNDtitle.gif" width="325" height="48"></div></th>
+            </tr>
+          </table>
+          <span class="style5">
+          <img src="../Images/TypeSpacer.gif" width="7" height="7"><strong></strong>For further information on Naturopathic Medicine and the qualifications for Naturopathic Doctors, visit the websites for the licensing Board <a href="http://www.boardofnaturopathicmedicine.on.ca" title="Licensing Board" target="_blank">www.boardofnaturopathicmedicine.on.ca</a>, Ontario &amp; Canadian Associations of Naturopathic Doctors <a href="http://www.oand.org" title="Ontario Association of Naturopathic Doctors" target="_blank">www.oand.org</a>, <a href="http://www.naturopathicassoc.ca" title="Canadian Association of Naturopathic Doctors" target="_blank">www.naturopathicassoc.ca</a>, and the Canadian College of Naturopathic Medicine <a href="http://www.ccnm.edu" title="Canadian College of Naturopathic Medicine" target="_blank">www.ccnm.edu</a>.<br>
+          <strong><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong></strong></strong><br>
+          <strong><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong></strong></strong>          <br>
+          <strong><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong></strong>WHAT IS NATUROPATHIC MEDICINE?</strong><br>
+          <br>
+          <strong><img src="../Images/TypeSpacer.gif" width="7" height="7"></strong>Naturopathic medicine is a comprehensive and holistic approach to improving health and treating illness in patients of all ages. It is the art and science of disease diagnosis, treatment and prevention using natural therapies and substances. Naturopathic treatments may be used as an alternative to allopathic (regular) medicine or can complement conventional medical treatments. The aim of the Naturopathic Doctor is always to support and stimulate the body&rsquo;s ability to heal itself.<br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7"><br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">          <br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7"><strong>NATUROPATHIC MEDICAL TRAINING</strong><br>
+          <br>
+          <strong><img src="../Images/TypeSpacer.gif" width="7" height="7"></strong>Naturopathic Doctors receive a minimum of seven years of specialized study. After three years of premedical university education, they must complete an intensive four year naturopathic medical program at a recognized college of naturopathic medicine. In addition to 1500 hours of supervised clinical experience, graduates must also pass rigorous North American and provincial licensing exams before they are registered to practice as doctors of Naturopathic Medicine in Ontario.<br>
+          </span></div></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
+<div id="Layer4" style="position:absolute; width:648px; height:63px; z-index:4; left: 171px; top: 110px;"><img src="../Images/BelowTopTitleBackground.jpg" width="648" height="63"></div>
+</body>
+</html>

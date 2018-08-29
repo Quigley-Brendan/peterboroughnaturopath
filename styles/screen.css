@@ -1,0 +1,600 @@
+/*
+********************************************************************************
+                            CSS Style Sheet for
+                         PeterboroughNaturopath.ca
+                               CSS Version 3
+                               -- Screen --
+********************************************************************************
+*/
+
+/* 
+ CUSTOM FONTS
+________________________________________________________________________________
+*/
+
+
+	@font-face {
+		font-family: Optimus Princeps;
+		src: url('OptimusPrinceps.ttf');
+	}
+
+	@font-face {
+		font-family: Optimus Princeps;
+		font-weight: bold;
+		src: url('OptimusPrincepsSemiBold.ttf');
+	}
+
+
+/* 
+ HTML ELEMENTS
+________________________________________________________________________________
+*/
+
+
+	body{
+		background-color: #ffffff;
+		-webkit-text-size-adjust:none;
+		margin: 0px;
+		padding: 0px;
+		text-align: center;
+		color: #000000;
+		font-size: 12pt;
+		font-family: "Helvetica Neue", Helvetica, Verdana, sans-serif;
+	}
+		
+	a {
+		color: #3a4825;
+		font-weight: bold;
+	}
+
+	a:hover {
+		color: #000000;
+		font-weight: bold;
+	}
+	
+	h1 {
+		margin: 10px 0 0 0;
+		padding: 0 0 0 0;
+		color: #0083a9;
+		font-size: 2em;
+	}
+
+	h2 {
+		margin: 0;
+		padding: 0;
+		font-size: 1.55em;
+	}
+
+	img{
+		border: 0px;
+	}
+
+	hr {
+		border: 0px;
+		clear: left;
+	}
+	
+/* 
+ DIV ID's
+________________________________________________________________________________
+*/
+
+
+/* Container
+   ---------- */
+
+	#Container {
+		position: relative;	
+		width: 900px;
+		margin: 40px auto 0 auto;
+		padding: 0 0 0px 0;
+		text-align: left;
+	}
+
+	#Container #Ferns{
+		position: absolute;
+		left: -30px;
+		top: 90px;
+		width: 358px;
+		height: 682px;
+		background: url('../images/interface-ferns.png') no-repeat 0 0;
+	}
+
+
+/* Header
+   ------ */
+	#Header {
+		position: relative;
+		width: 680px;
+		height: 180px;		
+		margin: 0 auto 0 auto;
+		padding: 0px 50px 0px 0px;
+		background: url('../images/interface-header-bg.png') no-repeat 0 0;
+		z-index: 200;
+	}
+
+	#Header h1, #Header strong{
+		display: none;
+	}
+
+	#Header #HomeButton{
+		width: 680px;
+		height: 180px;
+		cursor: pointer;
+	}
+
+
+/* Content Body
+   ------------ */
+	#ContentBody {
+		position: relative;
+/*
+		background: url('../images/interface-content-bg.png') repeat 0 0; 
+		background: rgba(174,185,143,.55);
+		width: 830px;
+*/
+		min-height: 395px;
+		margin: 0 auto;
+		padding: 0px;
+		z-index: 1;
+	}
+
+	#ContentBody #UnderConstruction{
+		position: absolute;	
+		right: 25px;
+		bottom: 25px;
+		width: 291px;
+		height: 157px;
+		background: url('../images/interface-under_construction.png') no-repeat 0 0;
+	}
+
+	#ContentBody #UnderConstruction strong{
+		display: none;
+	}
+
+
+	#Main-Navigation {
+		text-align: center;
+		color: #3a4825;
+		font-size: 14px;
+		margin: 10px 0 30px 0;
+		font-family: "Trajan Pro","Optimus Princeps","Times New Roman";
+		text-transform: uppercase;
+		border: 1px solid #79826b;
+		border-left: 0px;
+		border-right: 0px;
+	}
+
+	#Main-Navigation ul{
+		margin: 0;
+		list-style: none;
+		padding: 12px 15px 8px 15px;
+	}
+	
+	#Main-Navigation ul li{
+		display: inline;
+		margin: 0;
+	}
+
+	#Main-Navigation ul li a{
+		padding: 12px 15px 9px 15px;
+		margin: 0;
+		color: #3a4825;
+		text-decoration: none;
+	}
+
+
+	#Main-Navigation ul li a:hover{
+		color: #3a4825;
+		background: #e3ebc7;
+		text-decoration: none;
+	}
+
+	#Main-Navigation ul li a.active{
+		color: #3a4825;
+		background: #e3ebc7;
+		text-decoration: none;
+	}
+
+
+/* Content
+   ------- */
+
+	#Content {
+		margin: 0;
+		padding: 25px 15px 0 15px;
+		font-family: Helvetica;
+		font-size: 1.1em;
+		text-align: left;
+		color: #3a4825;
+	}
+
+	#Content a{
+		color: #2e3e0a;
+	}
+
+	#Content p{
+		padding: 0px 0 10px 0;
+	}
+
+	#Content h2{
+		font-size: 1.1em;
+		color: #3a4825;		
+		font-weight: bold;
+		text-align:center;
+		margin: 0 0 1em 0;
+	}
+
+	#Content h3{
+		font-size: 1.1em;
+		color: #3a4825;		
+		font-weight: bold;
+		margin: 0;
+	}
+
+	.padded{
+		margin: auto 11% auto 11%;
+	}
+
+	#Content #Home-Address {
+		text-align: center;
+		font-size: 1.25em;
+	}
+
+	#Content #Home-Address2 {
+		text-align: center;
+		font-size: 1.25em;
+		color: #3a4825;
+	}
+
+	#Content #Home-Phone {
+		text-align: center;
+		color: #3a4825;
+		font-size: 1.5em;
+	}
+
+	#Home-Email{
+		text-align: center;
+		color: #3a4825;
+		font-size: 1.1em;
+	}
+
+	#Home-Email a{
+		text-decoration: none;
+	}
+
+	#Home-Email a:hover{
+		text-decoration: none;
+	}
+
+	p{
+		margin: 0 0 15px 0;
+		padding: 0 0 0 0;
+	}
+
+	#Content ul#Home-BulletList{
+		margin: 0 0 0 100px;
+		padding: 0;
+	}
+
+	#Content ul#Home-BulletList>li{
+		padding: 0 0 1.5em 0;
+	}
+	
+	#Content ul#Home-BulletList li ul{
+		margin: 0;
+		padding: 0;
+		font-size: 0.85em;
+		list-style: none;
+	}
+	
+	
+	#Items{
+		text-align: left;
+		width: 84%;
+		margin: 0 auto;
+	}
+	
+	.Item{
+		clear: left;
+		padding: 0 0 25px 0;
+	}
+
+	.ItemImage{
+		border: 0;
+	}
+
+	.ItemName{
+		padding-bottom: 0.5em;
+	}
+
+	.ItemDescription{
+		margin-left: 161px;
+		padding-top: 0px;
+		text-align: left;
+	}
+
+	.ItemDescription p{
+		margin-bottom: 0;
+		padding-bottom: 0;
+	}
+
+
+
+/* Footer
+   ------ */
+
+
+	#Footer h3 {
+		text-align: center;
+		color: #a9c149;
+		font-size: 1.1em;
+		margin: 0px 0 0 0;
+		font-family: "Trajan Pro","Optimus Princeps","Times New Roman";
+		text-transform: uppercase;
+	}
+
+	#Footer h4 {
+		text-align: center;
+		color: #a9c149;
+		font-size: 0.9em;
+		margin: 2px 0 10px 0;
+		font-family: "Trajan Pro","Optimus Princeps","Times New Roman";
+		text-transform: uppercase;
+	}
+
+	#Footer em{
+		font-size: 1.25em;
+		font-style: normal;
+	}
+	
+	#Footer #Member {
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		color: #becaa3;
+		font-size: 0.95em;
+		font-family: "Trajan Pro","Optimus Princeps","Times New Roman";
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+
+	#Footer #Member ul{
+		display: inline;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	
+	#Footer #Member ul li{
+		display: inline;
+	}
+
+	#Footer #Member ul li a{
+		color: #8e9575;
+		text-decoration: none;
+		border-right: 1px solid #b9ce45;		
+		padding: 8px 8px 5px 4px;
+		margin: 0;
+	}
+
+	#Footer #Member ul li a:hover{
+		color: #3a4825;
+		text-decoration: underline;
+	}
+
+	#Footer #SocialLinks {
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	#Footer #SocialLinks img {
+		border: 0px;
+		margin: 5px;
+	}
+
+
+
+/* 
+ Specific pages
+________________________________________________________________________________
+*/
+
+
+/* Contact Form */
+	
+	#contact-area {
+		width: 60%;
+		margin: 0 auto;
+		font-size: 1em;
+	}
+	
+	#contact-area input, #contact-area textarea {
+		padding: 5px;
+		width: 100%;
+		font-family: Helvetica, sans-serif;
+		margin: 0px 0px 0.75em 0px;
+		border: 2px solid #697555;
+		background-color: #d9dfcb;
+		font-size: 1em;
+	}
+	
+	#contact-area textarea {
+		height: 125px;
+	}
+	
+	#contact-area textarea:focus, #contact-area input:focus {
+		border: 2px solid #b9ce45;
+	}
+	
+	#contact-area input.submit-button {
+		width: 25%;
+		float: right;
+		margin: 0px -14px 10px 0;
+	}
+
+	#contact-area #Throbber {
+		float: right;
+		margin-right: 10px;
+	}
+
+	
+	label {
+		float: left;
+		margin-right: 15px;
+		width: 100px;
+		padding-top: 5px;
+	}
+	
+
+
+/* 
+ Specific Classes
+________________________________________________________________________________
+*/
+
+
+/* Content Area */	
+
+	.skip{
+		display: none;
+	}
+
+
+/* 
+ General Classes
+________________________________________________________________________________
+*/
+
+	
+	.Indent{
+		margin-left: 20px;
+	}
+
+
+	.Color {
+		color: #6ea9e5;
+	}
+	.Color2 {
+		color: #f1b71c;
+	}
+
+	.Bold {
+		font-weight: bold;
+	}
+
+	.Italics {
+		font-style: italic;
+	}
+
+	.Underline {
+		text-decoration: underline;
+	}
+
+	.Center {
+		text-align: center;
+	}
+
+	.Right{
+		text-align: right;
+	}
+
+	.Left{
+		text-align: left;
+	}
+	
+	
+	.ImageFloatRight{
+		float: right;
+		margin: 0px 20px 00px 0px;
+	} 
+	
+	.ImageFloatLeft{
+		float: left;
+		margin: 0px 20px 20px 0px;
+	} 
+
+	.Clear {
+		clear: both;
+	}
+
+	.ClearLeft {
+		clear: left;
+	}
+
+	.ClearRight {
+		clear: right;
+	}
+
+	.FloatLeft{
+		float: left;
+	}
+
+	.FloatRight{
+		float: right;
+	}
+
+	.FloatRight-Image{
+		float: right;
+		margin: 0 0 10px 10px;
+	}
+
+	.TwoColumn{
+		width: 49%;
+	}
+
+	.Layer1{
+		position: relative;
+		z-index: 1;
+	}
+
+	.SuperScript {
+		position: relative;
+		top: -0.2em;
+		vertical-align: top;
+		font-size: 0.75em;
+	}
+
+	.NoFloat{
+		float: none;
+	}
+
+	.FullWidth{
+		width: 100%;
+	}
+
+
+	.BigText{
+		font-size: 1.1em;
+		font-weight: bold;
+	}
+
+	.SideNote{
+		color: #5e5e5c;
+		font-size: 0.70em;
+		font-weight: normal;
+	}
+
+
+	.Divider{
+		margin-bottom: 15px;
+		padding-top: 8px;
+		width: 95%;
+		border-bottom: 1px solid #a3ada4;
+	}
+
+	.alert {
+		margin: 20px 0 20px 0;
+		text-align: center;
+	}
+	
+	.alert.green {
+		background: url('../images/checkmark.png') no-repeat 50% 0;
+		padding-top: 50px;
+	}
+	
+/* 
+                    E n d   o f   S t y l e   S h e e t
+________________________________________________________________________________
+*/
+

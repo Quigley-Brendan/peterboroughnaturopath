@@ -1,0 +1,433 @@
+/*
+********************************************************************************
+                            CSS Style Sheet for
+                         PeterboroughNaturopath.ca
+                               CSS Version 3
+								-- Print --
+********************************************************************************
+*/
+
+/* 
+ CUSTOM FONTS
+________________________________________________________________________________
+*/
+
+
+	@font-face {
+		font-family: Optimus Princeps;
+		src: url('OptimusPrinceps.ttf');
+	}
+
+	@font-face {
+		font-family: Optimus Princeps;
+		font-weight: bold;
+		src: url('OptimusPrincepsSemiBold.ttf');
+	}
+
+
+/* 
+ HTML ELEMENTS
+________________________________________________________________________________
+*/
+
+
+	body{
+		margin: 0px;
+		padding: 0px;
+		text-align: center;
+		color: #000000;
+		font-size: 10pt;
+		font-family: "Helvetica", Helvetica, Verdana, sans-serif;
+	}
+		
+	a {
+		color: #000000;
+		font-weight: bold;
+	}
+
+	a:hover {
+		color: #000000;
+		font-weight: bold;
+	}
+	
+	h1 {
+		margin: 10px 0 0 0;
+		padding: 0 0 0 0;
+		font-size: 2em;
+	}
+
+	h2 {
+		margin: 0;
+		padding: 0;
+		font-size: 1.55em;
+	}
+
+	img{
+		border: 0px;
+	}
+
+	hr {
+		border: 0px;
+		clear: left;
+	}
+	
+/* 
+ DIV ID's
+________________________________________________________________________________
+*/
+
+
+/* Container
+   ---------- */
+
+	#Container {
+		position: relative;	
+		margin: 40px auto 0 auto;
+		padding: 0 0 0px 0;
+		text-align: left;
+	}
+
+	#Container #Ferns{
+		display: none;
+	}
+
+
+/* Header
+   ------ */
+	#Header {
+		position: relative;
+		width: 75%;
+		margin: 0 auto 50px auto;
+		padding: 0;
+		z-index: 200;
+		text-align: center;
+		font-family: "Trajan Pro","Optimus Princeps","Times New Roman";
+	}
+
+	#Header #HomeButton{
+		display: none;
+	}
+
+
+/* Content Body
+   ------------ */
+	#ContentBody {
+		position: relative;
+		width: 80%;
+		min-height: 395px;
+		margin: 0 auto;
+		padding: 0px;
+		z-index: 1;
+		border: 1px solid #000000;
+	}
+
+
+	#ContentBody #UnderConstruction{
+		display: none;
+	}
+
+
+/* Content
+   ------- */
+
+	#Content {
+		margin: 0;
+		padding: 25px 25px 0 25px;
+		font-family: "Trajan Pro","Optimus Princeps","Times New Roman";
+		font-weight: bold;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+	}
+
+	#Content #Home-Address {
+		text-align: center;
+		font-size: 1.25em;
+	}
+
+	#Content #Home-Phone {
+		text-align: center;
+		font-size: 1.5em;
+	}
+
+	p{
+		margin: 0 0 15px 0;
+		padding: 0 0 0 0;
+	}
+
+	#Content ul#Home-BulletList{
+		margin: 0 0 0 100px;
+		padding: 0;
+	}
+
+	#Content ul#Home-BulletList>li{
+		padding: 0 0 1.5em 0;
+	}
+	
+	#Content ul#Home-BulletList li ul{
+		margin: 0;
+		padding: 0;
+		font-size: 0.85em;
+		list-style: none;
+	}
+	
+
+
+
+/* Footer
+   ------ */
+
+
+	#Footer #Navigation {
+		text-align: center;
+		font-size: 1.1em;
+		margin: 30px 0 40px 0;
+		font-family: "Trajan Pro","Optimus Princeps","Times New Roman";
+		text-transform: uppercase;
+	}
+
+	#Footer #Navigation ul{
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	
+	#Footer #Navigation ul li{
+		display: inline;
+	}
+
+	#Footer #Navigation ul li a{
+		padding: 5px;
+		margin: 0;
+		text-decoration: none;
+	}
+
+	#Footer #Navigation ul li a:hover{
+		padding: 5px;
+		margin: 0;
+		text-decoration: underline;
+	}
+
+	#Footer #Member {
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		font-size: 0.95em;
+		font-family: "Trajan Pro","Optimus Princeps","Times New Roman";
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+
+	#Footer #Member ul{
+		display: inline;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	
+	#Footer #Member ul li{
+		display: inline;
+	}
+
+	#Footer #Member ul li a{
+		text-decoration: none;
+		border-right: 1px solid #555555;		
+		padding: 8px 8px 5px 4px;
+		margin: 0;
+	}
+
+	#Footer #Member ul li a:hover{
+		text-decoration: underline;
+	}
+
+
+
+/* 
+ Specific pages
+________________________________________________________________________________
+*/
+
+
+/* Contact Form */
+	
+	#contact-area {
+		width: 60%;
+		margin: 0 auto;
+		font-size: 1em;
+	}
+	
+	#contact-area input, #contact-area textarea {
+		padding: 5px;
+		width: 100%;
+		font-family: Helvetica, sans-serif;
+		margin: 0px 0px 0.75em 0px;
+		border: 1px solid black;
+		font-size: 1em;
+	}
+	
+	#contact-area textarea {
+		height: 125px;
+	}
+	
+	#contact-area textarea:focus, #contact-area input:focus {
+		border: 1px solid black;
+	}
+	
+	#contact-area input.submit-button {
+		width: 25%;
+		float: right;
+		margin: 0px -14px 10px 0;
+	}
+
+	#contact-area #Throbber {
+		display: none;
+	}
+
+	
+	label {
+		float: left;
+		margin-right: 15px;
+		width: 100px;
+		padding-top: 5px;
+	}
+	
+
+
+/* 
+ Specific Classes
+________________________________________________________________________________
+*/
+
+
+/* Content Area */	
+
+	.skip{
+		display: none;
+	}
+
+
+/* 
+ General Classes
+________________________________________________________________________________
+*/
+
+	
+	.Indent{
+		margin-left: 20px;
+	}
+
+	.Bold {
+		font-weight: bold;
+	}
+
+	.Italics {
+		font-style: italic;
+	}
+
+	.Underline {
+		text-decoration: underline;
+	}
+
+	.Center {
+		text-align: center;
+	}
+
+	.Right{
+		text-align: right;
+	}
+
+	.Left{
+		text-align: left;
+	}
+	
+	
+	.ImageFloatRight{
+		float: right;
+		margin: 0px 20px 00px 0px;
+	} 
+	
+	.ImageFloatLeft{
+		float: left;
+		margin: 0px 20px 20px 0px;
+	} 
+
+	.Clear {
+		clear: both;
+	}
+
+	.ClearLeft {
+		clear: left;
+	}
+
+	.ClearRight {
+		clear: right;
+	}
+
+	.FloatLeft{
+		float: left;
+	}
+
+	.FloatRight{
+		float: right;
+	}
+
+	.FloatRight-Image{
+		float: right;
+		margin: 0 0 10px 10px;
+	}
+
+	.TwoColumn{
+		width: 49%;
+	}
+
+	.Layer1{
+		position: relative;
+		z-index: 1;
+	}
+
+	.SuperScript {
+		position: relative;
+		top: -0.2em;
+		vertical-align: top;
+		font-size: 0.75em;
+	}
+
+	.NoFloat{
+		float: none;
+	}
+
+	.FullWidth{
+		width: 100%;
+	}
+
+
+	.BigText{
+		font-size: 1.1em;
+		font-weight: bold;
+	}
+
+	.Divider{
+		margin-bottom: 15px;
+		padding-top: 8px;
+		width: 95%;
+		border-bottom: 1px solid #a3ada4;
+	}
+
+	.alert {
+		margin: 20px 0 20px 0;
+	}
+	
+	.alert.green {
+		background: url('../images/checkmark.png') no-repeat 50% 0;
+		padding-top: 50px;
+	}
+	
+/* 
+                    E n d   o f   S t y l e   S h e e t
+________________________________________________________________________________
+*/
+
+
+
+
+
+

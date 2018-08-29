@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Peterborough Naturopath - Therapies</title>
+<LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-image:  url(../Images/BackTile.jpg);
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.style5 {
+	font-size: small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style7 {font-size: small; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
+.style9 {font-family: Verdana, Arial, Helvetica, sans-serif}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('../Images/UwayaOver.jpg','../Images/NewJoyceButtonOver.jpg','../Images/NewLNDButtonOver.jpg','../Images/ContactButtonOver.jpg','../Images/newCTCover.jpg','../Images/newModalitiesOver.jpg','../Images/newWomensOver.jpg','../Images/newDiagnosticOver.jpg','../Images/newDispensaryOver.jpg','../Images/newSaunaOver.jpg','../Images/newNewOver.jpg')">
+<p>&nbsp;</p>
+<div id="Layer7" style="position:absolute; width:47px; height:60px; z-index:7; left: 772px; top: 0px;"><img src="../Images/TopRightNavBackground.jpg" width="47" height="60"></div>
+<div id="Layer5" style="position:absolute; width:601px; height:35px; z-index:5; left: 171px; top: 0px;"><a href="Therapies.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image69','','../Images/newCTCover.jpg',1)"><img src="../Images/newCTCoff.jpg" name="Image69" width="132" height="35" border="0"></a><a href="Therapies.htm#Modalities" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image70','','../Images/newModalitiesOver.jpg',1)"><img src="../Images/newModalitiesOff.jpg" name="Image70" width="81" height="35" border="0"></a><a href="Therapies.htm#Womens" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image71','','../Images/newWomensOver.jpg',1)"><img src="../Images/newWomensOff.jpg" name="Image71" width="69" height="35" border="0"></a><a href="Therapies.htm#Diagnostic" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image72','','../Images/newDiagnosticOver.jpg',1)"><img src="../Images/newDiagnosticOff.jpg" name="Image72" width="85" height="35" border="0"></a><a href="Therapies.htm#Dispensary" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image73','','../Images/newDispensaryOver.jpg',1)"><img src="../Images/newDispensaryOff.jpg" name="Image73" width="80" height="35" border="0"></a><a href="Therapies.htm#Sauna" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image74','','../Images/newSaunaOver.jpg',1)"><img src="../Images/newSaunaOff.jpg" name="Image74" width="91" height="35" border="0"></a><a href="Therapies.htm#New" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image75','','../Images/newNewOver.jpg',1)"><img src="../Images/newNewOff.jpg" name="Image75" width="63" height="35" border="0"></a></div>
+<div id="Layer1" style="position:absolute; width:171px; height:173; z-index:1; left: 0; top: 0;"><a href="../index.htm" target="_parent"><img src="../Images/TopLeftNavStar.jpg" width="171" height="173" hspace="0" vspace="0" border="0"></a></div>
+<p>&nbsp;</p>
+<div id="Layer6" style="position:absolute; width:601px; height:25px; z-index:6; left: 171px; top: 35px;"><a href="Doctors.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('UwayaButton','','../Images/UwayaOver.jpg',1)"><img src="../Images/UwayaOff.jpg" name="UwayaButton" width="129" height="25" border="0"></a><a href="/Pages/Doctors.htm#Joyce" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image44','','/Images/JoyceButtonOver.jpg',1)"><img src="/Images/JoyceButton.jpg" name="Image44" width="111" height="25" border="0"></a><a href="/Pages/Doctors.htm#Dana" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image45','','/Images/DanaOver.jpg',1)"><img src="/Images/DanaOff.jpg" name="Image45" width="114" height="25" border="0"></a><a href="/Pages/Doctors.htm#LNDanchor" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image46','','/Images/LNDButtonOver.jpg',1)"><img src="/Images/LNDButton.jpg" name="Image46" width="157" height="25" border="0"></a><a href="Contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ContactButton','','../Images/ContactButtonOver.jpg',1)"><img src="../Images/ContactButton.jpg" name="ContactButton" width="90" height="25" border="0"></a></div>
+<p>&nbsp;</p>
+<div id="Layer3" style="position:absolute; width:648px; height:50px; z-index:3; left: 171px; top: 60px;"><img src="../Images/TopPeterboroughNaturopathTi.jpg" width="648" height="50"></div>
+<div id="Layer2" style="position:absolute; width:772px; height:2400px; z-index:2; top: 173px; left: 0;">
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="171" scope="col"><img src="../Images/newCTCpicture.jpg" width="171" height="266"></th>
+      <td width="601" scope="col"><div align="left">
+        <table width="601" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <th scope="col"><div align="left"><img src="../Images/newCTCtitle.gif" width="427" height="47"></div></th>
+          </tr>
+        </table>
+        <p><span class="style5"><img src="../Images/newSmallBullet.gif" width="20" height="7">Attention deficit disorders<img src="../Images/newSmallBullet.gif" width="20" height="7">Allergies<img src="../Images/newSmallBullet.gif" width="20" height="7">Arthritis<img src="../Images/newSmallBullet.gif" width="20" height="7">Asthma<br>
+            <img src="../Images/newSmallBullet.gif" width="20" height="7">Appetite/weight issues<img src="../Images/newSmallBullet.gif" width="20" height="7">Blood pressure<img src="../Images/newSmallBullet.gif" width="20" height="7">Cancer<img src="../Images/newSmallBullet.gif" width="20" height="7">Children/infant health <br>
+            <img src="../Images/newSmallBullet.gif" width="20" height="7">Cholesterol<img src="../Images/newSmallBullet.gif" width="20" height="7">Chronic diseases<img src="../Images/newSmallBullet.gif" width="20" height="7">Depression/anxiety<img src="../Images/newSmallBullet.gif" width="20" height="7">Diabetes<br>
+            <img src="../Images/newSmallBullet.gif" width="20" height="7">Digestive dysfunction<img src="../Images/newSmallBullet.gif" width="20" height="7">Earaches<img src="../Images/newSmallBullet.gif" width="20" height="7">Elders&#8217; health<img src="../Images/newSmallBullet.gif" width="20" height="7">Environmental toxicity<br>
+            <img src="../Images/newSmallBullet.gif" width="20" height="7">Fatigue<img src="../Images/newSmallBullet.gif" width="20" height="7">Female health<img src="../Images/newSmallBullet.gif" width="20" height="7">Fibromyalgia<img src="../Images/newSmallBullet.gif" width="20" height="7">Headaches/migraines<br>
+            <img src="../Images/newSmallBullet.gif" width="20" height="7">Male health<img src="../Images/newSmallBullet.gif" width="20" height="7">Menstrual/hormonal issues<img src="../Images/newSmallBullet.gif" width="20" height="7">Skin diseases<br>
+            <img src="../Images/newSmallBullet.gif" width="20" height="7">Stress/tension<img src="../Images/newSmallBullet.gif" width="20" height="7">Thyroid<img src="../Images/newSmallBullet.gif" width="20" height="7">Urinary problems<br>
+        </span>        </p>
+      </div></td>
+    </tr>
+  </table>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="171" scope="col"><img src="../Images/ChinesePic.jpg" width="171" height="266"></th>
+      <td width="601" scope="col"><div align="left">
+          <table width="601" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th scope="col"><div align="left"><a name="Modalities" id="Modalities"></a><img src="../Images/newModalitiesTitle.gif" width="155" height="47"></div></th>
+            </tr>
+          </table>
+          <p class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong>Botanical Medicine</strong><br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">Botanical medicine refers to plant-based treatments that are used in the form of herbal tinctures, teas, topical oils/ salves/ creams, capsules and other herbal preparations. The use of plants for healing dates back to the beginning of time and is the foundation for modern pharmacology. Botanical medicines are the subject of a growing number of positive clinical research studies relating to their safety and effectiveness.          </p>
+          <p class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong>Homeopathy</strong><br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7">Based on the principle of &ldquo;like cures like&rdquo; homeopathic medicine was developed in the 1700&rsquo;s by Samual Hahnemann and has been safely and effectively practiced since that time. Homeopathy uses minute amounts of natural substances which have been potentized and diluted to obtain their effects. A homeopathic remedy is prescribed based on the unique characteristics of the patient and stimulates self-healing abilities.</p>
+          <p class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong>Traditional Chinese Medicine</strong> <br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7">Acupuncture and traditional Chinese medicine are based on a 5000 year old practice of balancing the flow of Chi (energy) in the meridian pathways of the body. Pulse and tongue diagnosis help the ND decide on the direction of the treatment. The goal of this modality is to create balance and harmony in the mind and body. Treatments can include the use of ancient Chinese herbal formulas, traditional Chinese dietary suggestions and acupuncture. Acupuncture, the insertion of sterile needles at specific points on the body, is highly effective for a variety of treatments and has been clinically tested in the treatment of chronic pain.</p>
+          <p class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7"><strong>Hydrotherapy</strong> is the use of hot and cold water to stimulate healthy circulation in the vascular and lymphatic systems of the body. Hydrotherapy promotes immunity, activates detoxification and restores energy levels.</p>
+          <p class="style5"><strong><strong><img src="../Images/TypeSpacer.gif" width="7" height="7"></strong></strong><strong>Nutrition &amp; Lifestyle Counselling </strong><br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7"><span class="style9">Balanced nutrition is an essential foundation for healthy living. A health-promoting diet can significantly enhance overall vitality and helps to prevent disease. Special diets or dietary adjustments can be extremely effective in alleviating symptoms of specific medical conditions. Nutritional supplements such as vitamins, minerals and enzymes are another powerful method of optimizing health when needed. After an in-depth nutritional assessment with each patient, the ND will propose individualized dietary and supplemental recommendations.<br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7">NDs are committed to the education and guidance of their patients in making positive changes to various aspects of their lifestyle that may be inhibiting optimal health. Naturopathic lifestyle counselling takes into consideration where you are in your health journey and what you wish to achieve. By evaluating the environmental, mental/emotional, and physical aspects of your life, the ND can help you make choices which will enhance your well-being and reduce stress levels.</span></p>
+          <p class="style5"><strong><strong><img src="../Images/TypeSpacer.gif" width="7" height="7"></strong></strong><strong>Vitamin B12 injections</strong><br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7"><br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7"><strong>Glutathione inhalation<br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7"><br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7">Bowen Therapy</strong> is a muscle &amp; connective tissue therapy which is simple, gentle to the patient, and respectful of the body&#8217;s inate ability to heal itself. Muscle, tendon, &amp; nerve sheaths are put under slight traction &amp; challenged with gentle pressure. Bowen aids in improving circulation, lymphatic &amp; venous drainage, &amp; helping assimilate nutrients &amp; eliminate toxins. It provides corrective rather than palliative care. For conditions which may be helped by Bowen &amp; for more information please check the websites <a href="http://www.bowtech.com" target="_blank">www.bowtech.com</a> &amp; <a href="http://www.bowencanada.ca" target="_blank">www.bowencanada.ca</a>.</p>
+      </div></td>
+    </tr>
+  </table>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="171" scope="col"><a name="Womens" id="Womens"></a><img src="../Images/WomensPic.jpg" width="171" height="266"></th>
+      <td width="601" scope="col"><div align="left">
+          <table width="601" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th scope="col"><div align="left"><img src="../Images/WomensHealthTitle.gif" width="225" height="48"></div></th>
+            </tr>
+          </table>
+          <span class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7">At Peterborough Naturopath, we treat a wide variety of female health concerns. From pregnancy, through adolescence, into menopause and beyond, women have very specific and individual needs. The Naturopathic Doctors at the clinic have extensive knowledge and experience in treating many female conditions, including pre- and post-natal care, menstrual conditions, breast concerns, uterine fibroids, ovarian cysts, endometriosis, infertility, menopause and osteoporosis. A large emphasis is put on prevention, and we therefore offer complete breast and gynecological examinations to our female patients. Breast thermography clinics are also hosted here at Peterborough Naturopath twice a year. In order to thoroughly assess a women&#8217;s health status, we also offer diagnostic testing including salivary hormone panels.</span> </div></td>
+    </tr>
+  </table>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="171" scope="col"><a name="Diagnostic" id="Diagnostic"></a><img src="../Images/DiagnosticPic.jpg" width="171" height="266"></th>
+      <td width="601" scope="col"><div align="left">
+          <table width="601" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th scope="col"><div align="left"><img src="../Images/DiagnosticTitle.gif" width="263" height="48"></div></th>
+            </tr>
+          </table>
+          <p class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7">As part of a thorough health assessment, it may be important to carry out various diagnostic tests. For this reason, Peterborough Naturopath offers the following services to each patient:<br>
+            <br>
+            <img src="../Images/TypeIndentSpacerBull.gif" width="50" height="7">Hair mineral analysis<br>
+            <img src="../Images/TypeIndentSpacerBull.gif" width="50" height="7">Food allergy testing<br>
+            <img src="../Images/TypeIndentSpacerBull.gif" width="50" height="7">Salivary hormone panels<br>
+            <img src="../Images/TypeIndentSpacerBull.gif" width="50" height="7">Gynecological examinations (pap)<br>
+            <img src="../Images/TypeIndentSpacerBull.gif" width="50" height="7">Blood work (through MDS labs)<br>
+            <img src="../Images/TypeIndentSpacerBull.gif" width="50" height="7">Urine analysis<br>
+            <img src="../Images/TypeIndentSpacerBull.gif" width="50" height="7">Comprehensive digestive stool analysis<br>
+            <img src="../Images/TypeIndentSpacerBull.gif" width="50" height="7">Breast thermography</p>
+          </div></td>
+    </tr>
+  </table>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="171" scope="col"><a name="Dispensary" id="Dispensary"></a><img src="../Images/MorePic.jpg" width="171" height="266" hspace="0" vspace="0" align="top"></th>
+      <td width="601" scope="col"><div align="left">
+          <table width="601" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th scope="col"><div align="left"><img src="../Images/newDispensaryTitle.gif" width="155" height="47"></div></th>
+            </tr>
+          </table>
+          <span class="style5"><br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7">Our Dispensary has available to patients a full line of professional, third-party tested vitamins and supplements. In addition, we have over 200 botanical tinctures and homeopathics which are custom prescribed and formulated for unique purposes. Although we stock a large array of items, we will also custom order items as needed.<br>
+          <strong><img src="../Images/TypeSpacer.gif" width="7" height="7"></strong>Because the products are prescribed by a licensed Naturopathic Doctor, patients are not required to pay PST (provincial sales tax) on these items. Also, because you practice preventive health care, you may submit a letter with receipts on your taxes to reduce your taxable income.</span></div></td>
+    </tr>
+  </table>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="171" scope="col"><img src="../Images/newSaunaPic.jpg" width="171" height="266" align="top"></th>
+      <td width="601" scope="col"><div align="left">
+          <table width="601" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th scope="col"><div align="left"><a name="Sauna" id="Sauna"></a><img src="../Images/newSaunaTitle.gif" width="266" height="47"></div></th>
+            </tr>
+          </table>
+          <span class="style7"><em><br>
+          <img src="../Images/TypeSpacer.gif" width="7" height="7"><em></em>Effortlessly detoxify stored toxins from your body with therapeutic sauna treatments.</em></span><span class="style5"><br>
+          </span>
+          <p class="style5"><img src="../Images/TypeSpacer.gif" width="7" height="7"><span class="style9">Sauna therapy has a long history in many cultures that made a custom of cleansing and rejuvenation, such as the native sweat lodge, the Finnish sauna, or the roman steam bath.  Although it can be used at any time to revitalize the body and mind, infrared sauna is especially useful when detoxification is indicated.<br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7">Not only do saunas feel good, they are good! They get your heart beating and your blood circulating, helping the body to detoxify in unique and important ways. A layer of fat and oil exists just below the surface of the skin. Heat from the sauna increases skin temperature, causing those fats and oils to &ldquo;melt&rdquo; and ooze out of the skin&rsquo;s oil glands. As sweat and oil are secreted, the toxins dissolved in the oil are secreted as well. By excreting these toxins and then washing them off your body, your toxic load is lowered and cellular health improves. Be sure to wash afterwards with nontoxic castile soap to prevent those toxins from reabsorbing back into your body.<br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7">Scientific analysis shows infrared heat induced sweat contains 5-6 times more toxins, fat and impurities than normal sweat. In one study of effects of infrared sauna, 15-20% of sweat was composed of undesirable elements such as sodium, fat soluble toxins, sulfuric acid, uric acid, toxic heavy metals, ammonia, and cholesterol. Because the skin is the largest organ of the body, regularly sweating in a infrared sauna can help decrease the toxic load and contribute to better health and vitality.<br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7">Our skin contains sweat glands and oil glands, both of which help us to detoxify. Sweat gets rid of water-soluble toxins, and even helps to eliminate toxic heavy metals such as mercury and cadmium. Oil glands help remove oil-soluble toxins that the body would otherwise have a difficult time eliminating (gasoline, solvents, pesticides and ingredients in toothpaste and personal care products). The longer the skin is heated, the more oil-soluble toxins are eliminated.<br>
+            <img src="../Images/TypeSpacer.gif" width="7" height="7">Be careful not to overheat! Low temperature saunas (35-45 degrees) should be used for longer periods, gradually increasing the duration. Your sessions will be individualized for your health concerns. Regular exercise, a good supplement program, containing fat-mobilizing vitamins and essential fatty acids makes the sauna even more effective. Taking saunas is an important element in physical responsibility. These treatments feel very good for a reason; they provide increased lymphatic and cardiovascular circulation, as well as the removal of toxins.</span></p>
+          </div></td>
+    </tr>
+  </table>
+  <table width="772" height="266" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="171" scope="col"><a name="New" id="New"></a><img src="../Images/WhatsNewPic.jpg" width="171" height="266" align="top"></th>
+      <td width="601" scope="col"><div align="left">
+          <table width="601" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <th scope="col"><div align="left"><img src="../Images/WhatsNewTitle.gif" width="163" height="48"></div></th>
+            </tr>
+          </table>
+          <p class="style5"><strong><strong><img src="../Images/TypeSpacer.gif" width="7" height="7"></strong>Breast Thermography Clinic, June 26, 2009. </strong><br>
+  To find out more  or to schedule a breast exam, click on <a href="http://www.medthermonline.com" target="_blank">www.medthermonline.com</a></p>
+          <p class="style5"><strong><strong><img src="../Images/TypeSpacer.gif" width="7" height="7"></strong>Bowen Therapy</strong> is again available at Peterborough Naturopath through the services of <strong>Chantal Langois, N.D.</strong></p>
+          <p class="style5"><br>
+          <strong><img src="../Images/TypeSpacer.gif" width="7" height="7"></strong></p>
+          <p class="style5">&nbsp;</p>
+          <br>
+        <p></p>
+      </div></td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
+<div id="Layer4" style="position:absolute; width:648px; height:63px; z-index:4; left: 171px; top: 110px;"><img src="../Images/BelowTopTitleBackground.jpg" width="648" height="63"></div>
+</body>
+</html>

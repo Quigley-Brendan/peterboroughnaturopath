@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Peterborough Naturopath - Contact</title>
+<LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-image:  url(../Images/BackTile.jpg);
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.style5 {
+	font-size: small;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style8 {font-size: small; font-family: Verdana, Arial, Helvetica, sans-serif; font-style: italic; }
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('../Images/UwayaOver.jpg','../Images/NewJoyceButtonOver.jpg','../Images/NewLNDButtonOver.jpg','../Images/ContactButtonOver.jpg','../Images/newCTCover.jpg','../Images/newModalitiesOver.jpg','../Images/newWomensOver.jpg','../Images/newDiagnosticOver.jpg','../Images/newDispensaryOver.jpg','../Images/newSaunaOver.jpg','../Images/newNewOver.jpg')">
+<p>&nbsp;</p>
+<div id="Layer7" style="position:absolute; width:47px; height:60px; z-index:7; left: 772px; top: 0px;"><img src="../Images/TopRightNavBackground.jpg" width="47" height="60"></div>
+<div id="Layer5" style="position:absolute; width:601px; height:35px; z-index:5; left: 171px; top: 0px;"><a href="Therapies.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image69','','../Images/newCTCover.jpg',1)"><img src="../Images/newCTCoff.jpg" name="Image69" width="132" height="35" border="0"></a><a href="Therapies.htm#Modalities" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image70','','../Images/newModalitiesOver.jpg',1)"><img src="../Images/newModalitiesOff.jpg" name="Image70" width="81" height="35" border="0"></a><a href="Therapies.htm#Womens" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image71','','../Images/newWomensOver.jpg',1)"><img src="../Images/newWomensOff.jpg" name="Image71" width="69" height="35" border="0"></a><a href="Therapies.htm#Diagnostic" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image72','','../Images/newDiagnosticOver.jpg',1)"><img src="../Images/newDiagnosticOff.jpg" name="Image72" width="85" height="35" border="0"></a><a href="Therapies.htm#Dispensary" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image73','','../Images/newDispensaryOver.jpg',1)"><img src="../Images/newDispensaryOff.jpg" name="Image73" width="80" height="35" border="0"></a><a href="Therapies.htm#Sauna" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image74','','../Images/newSaunaOver.jpg',1)"><img src="../Images/newSaunaOff.jpg" name="Image74" width="91" height="35" border="0"></a><a href="Therapies.htm#Sauna" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image74','','../Images/newSaunaOver.jpg',1)"></a><a href="Therapies.htm#New" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image75','','../Images/newNewOver.jpg',1)"><img src="../Images/newNewOff.jpg" name="Image75" width="63" height="35" border="0"></a></div>
+<div id="Layer1" style="position:absolute; width:171px; height:173; z-index:1; left: 0; top: 0;"><a href="../index.htm" target="_parent"><img src="../Images/TopLeftNavStar.jpg" width="171" height="173" hspace="0" vspace="0" border="0"></a></div>
+<p>&nbsp;</p>
+<div id="Layer6" style="position:absolute; width:601px; height:25px; z-index:6; left: 171px; top: 35px;"><a href="Doctors.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('UwayaButton','','../Images/UwayaOver.jpg',1)"><img src="../Images/UwayaOff.jpg" name="UwayaButton" width="126" height="25" border="0"></a><a href="Doctors.htm#Gutteridge" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image37','','../Images/NewJoyceButtonOver.jpg',1)"><img src="../Images/NewJoyceButton.jpg" alt="susan joyce" name="Image37" width="170" height="25" border="0"></a><a href="Doctors.htm#LNDanchor" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image38','','../Images/NewLNDButtonOver.jpg',1)"><img src="../Images/NewLNDButton.jpg" alt="licensed naturopathic doctors" name="Image38" width="215" height="25" border="0"></a><a href="Contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ContactButton','','../Images/ContactButtonOver.jpg',1)"><img src="../Images/ContactButton.jpg" name="ContactButton" width="90" height="25" border="0"></a></div>
+<p>&nbsp;</p>
+<div id="Layer3" style="position:absolute; width:648px; height:50px; z-index:3; left: 171px; top: 60px;"><img src="../Images/TopPeterboroughNaturopathTi.jpg" width="648" height="50"></div>
+<div id="Layer4" style="position:absolute; width:601px; height:63px; z-index:4; left: 171px; top: 110px; background-image: url(../Images/BelowTopTitleBackground.jpg); layer-background-image: url(../Images/BelowTopTitleBackground.jpg); border: 1px none #000000;" class="style5">
+  <div align="center"><img src="../Images/TypeSpacer.gif" width="7" height="7"><br>
+    694 Sherbrooke Street, Peterborough, Ontario, K9J 2P7, Canada<br>
+    <br>
+  </div>
+</div>
+<div id="Layer2" style="position:absolute; width:423px; height:115px; z-index:8; left: 0px; top: 173px; background-image: url(../Images/ContactTopLeft.jpg); layer-background-image: url(../Images/ContactTopLeft.jpg); border: 1px none #000000;">
+  <table width="253" height="109" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="52">&nbsp;</td>
+      <td width="188"><div align="left">        <img src="../Images/TypeSpacer.gif" width="7" height="7"><br>
+          <span class="style8">Peterborough Naturopath operates from a home built in the &#8220;Regency&#8221; style in 1837, and known as &#8220;Clonsilla&#8221; since that time.</span></div></td>
+    </tr>
+  </table>
+</div>
+<div id="Layer8" style="position:absolute; width:396px; height:115px; z-index:9; left: 423px; top: 173px; background-image: url(../Images/ContactTopRight.jpg); layer-background-image: url(../Images/ContactTopRight.jpg); border: 1px none #000000;"></div>
+<div id="Layer9" style="position:absolute; width:423px; height:235px; z-index:10; left: 0px; top: 288px;"><img src="../Images/ContactBottomLeft.jpg" width="423" height="235" border="0" usemap="#Map">
+  <map name="Map">
+    <area shape="circle" coords="218,140,23" href="../Images/MapLarge.gif" target="_blank">
+  </map>
+</div>
+<div id="Layer10" style="position:absolute; width:396px; height:235px; z-index:11; left: 423px; top: 288px; background-image: url(../Images/ContactBottomRight.jpg); layer-background-image: url(../Images/ContactBottomRight.jpg); border: 1px none #000000;"></div>
+<div id="Layer11" style="position:absolute; width:772px; height:50px; z-index:12; left: 0px; top: 527px;">
+  <table width="771" height="49" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <th width="51" scope="col">&nbsp;</th>
+      <td width="720" scope="col"><div align="left" class="style5">
+        <p>For more information, please contact our office manager, Robin Griffin, at (705) 755-0321.<br>
+          or send Robin an e-mail at <a href="mailto:peterboroughnaturopath@bellnet.ca">peterboroughnaturopath@bellnet.ca</a><br>
+          General information is also available at the websites listed on our <a href="Doctors.htm#LNDanchor" target="_parent">licensed Naturopathic Doctors</a> page.        </p>
+        <p>&nbsp;</p>
+      </div></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
